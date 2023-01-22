@@ -1,0 +1,11 @@
+{
+    "Name": "Shane Removal Surgery",
+    "Author": "coffeeknife",
+    "Version": "1.0.0",
+    "Description": "Mod that effectively removes Shane by making him completely unrecognizable.",
+    "UniqueID": "coffeeknife.shaneremoval",
+    "UpdateKeys": [],
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

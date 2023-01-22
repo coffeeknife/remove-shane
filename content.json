@@ -1,0 +1,30 @@
+{
+    "Format": "1.28.4",
+    "Changes": [
+        {
+            "Action": "Load",
+            "Target": "Portraits/Shane",
+            "FromFile": "assets/portraits/shane.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Shane_Beach",
+            "FromFile": "assets/portraits/shane_beach.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Shane",
+            "FromFile": "assets/walksprites/shane.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Shane_Beach",
+            "FromFile": "assets/walksprites/shane_beach.png"
+        },
+        {
+            "Actions": "Load",
+            "Target": "Characters/Shane_JojaMart",
+            "FromFile": "assets/walksprites/shane_jojamart.png"
+        }
+    ]
+}
